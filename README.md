@@ -1,5 +1,5 @@
 <div align="center">
-<h1 title="hehehe"> Hey 👋, I'm Tarun Mahajan!</h1>
+<h1 title="hehehe"> Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Tarun Mahajan!</h1>
 </div>
 <a href="https://www.linkedin.com/in/tarun-mahajan-39472839">
   <img align="left" alt="Tarun's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -42,8 +42,8 @@ A **Software Engineer** 🚀 from Pune, India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png"></code>
+<code><img height="20" src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarunthecse&show_icons=true&hide_border=true&count_private=true&theme=dracula&icon_color=79dafa" alt="Tarun's GitHub Stats">
 
