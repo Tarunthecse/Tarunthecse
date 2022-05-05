@@ -22,7 +22,7 @@ A **Software Engineer** 🚀 from Pune, India.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Senior Software Engineer at Red Hat.
+- 👨🏽‍💻 I’m currently working as a Principal Software Engineer at Red Hat.
 - 🌱 I'm mostly working with technologies like Java, Spring, Docker, Kubernetes, Openshift, Microservice etc. 
 - 🤔 My interests are backend development and developing some useful and cool stuff xD
 - 💼 I have done the Bachelar Degree i.e B.Tech in computer science & engineering domain.
